@@ -27,7 +27,7 @@ or the reading or input data, as well as the statistical analysis.
 
 **minkmap.conf**
 is a configuration file (can be renamed) to store basic parameters.
-Alternatively command line options can be used, for example,
+Alternatively command line options can be used, for example:
 
                        ./minkmap -l 5 -U 75 -V 33 -w 15 -k 7 -s 17
 
@@ -39,4 +39,5 @@ Known issues
 * A proper documentation is missing. If required (software@mklatt.org),
   this can easily be provided by turning the comments into doxygen
   commands.
-* Option for minus samplling boundary conditions (mbc) in binnedskymap is deprecated
+* Option for minus sampling boundary conditions (mbc) in binnedskymap is deprecated
+

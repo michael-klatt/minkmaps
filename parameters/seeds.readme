@@ -1,0 +1,10 @@
+#-----------------#
+Readme about seeds:
+
+If seed and seedwght are zero,
+the DoS file contains either analytic values
+or averaged DoS for 8 different runs with
+	  seed=1000*linear_window_size*(1+run_number*10) and
+    seedwght=100000*linear_window_size*(1+run_number*10) .
+
+#-----------------#
