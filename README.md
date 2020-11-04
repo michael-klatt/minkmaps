@@ -13,7 +13,9 @@ called sky map.
 
 **Based on the paper**  
 Michael Andreas Klatt, Klaus Mecke.
-*Detecting structured sources in noisy images via Minkowski maps* (2019+)
+[Detecting structured sources in noisy images via Minkowski maps](https://dx.doi.org/10.1209/0295-5075/128/60001), EPL (Europhysics Letters) 128:60001 (2019)
+
+Please cite the paper if you use the code.
 
 Compilation
 -----------
